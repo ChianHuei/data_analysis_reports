@@ -3,7 +3,7 @@
 Samples for Data Analysis and Data Visualization
 ### Project Description
 1. Predicting Enterprises’ Revenue via Patent Data
-https://chianhuei.github.io/data_analysis_reports/
+https://chianhuei.github.io/data_analysis_reports/patent_data.html
 2. Hospitality Industry in AZ
 https://chianhuei.github.io/data_analysis_reports/Hospitality_AZ.html
 ### Tech Specs
